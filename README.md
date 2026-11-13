@@ -4,7 +4,7 @@ Data science student at UNC Charlotte. I turn messy data into analysis people ca
 
 ## Featured work
 
-**Royale IQ**: a live Clash Royale analytics site (players, decks and cards) built on battle data and the game's official API. A showcase repo with the architecture and screenshots is coming.
+**[Royale IQ](https://github.com/akhan69-hash/royale-iq)** ([live at royaleiq.com](https://royaleiq.com)): a live Clash Royale analytics site (players, decks and cards) built on a growing archive of real battles and the game's official API. The repo covers the architecture, screenshots and engineering notes.
 
 **NYC Air Pollution, Forecasting and Environmental Justice**: co-authored study of PM2.5, NO2 and Ozone across NYC's UHF42 neighborhoods, 2009-2023.
 - Random Forest reached R² 0.98 on a held-out 2023 test set, with time-series cross-validation (R² 0.96) so the model never trains on the future.
